@@ -1,0 +1,22 @@
+{
+  "name": "Angular hello world by vosykapavel",
+  "homepage": "https://github.com/vosykapavel/angular-hello-world",
+  "authors": [
+    "Pavel Vosyka <vosykapavel@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "^3.3.6"
+  }
+}
